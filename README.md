@@ -50,20 +50,6 @@ Outlier detection
 
 Trend identification
 
-
-
----
-
-📈 Visualization Tools Used
-
-Seaborn – Heatmaps, boxplots, distribution plots
-
-Matplotlib – Line charts, bar plots, pie charts
-
-
-
----
-
 🧰 Tools & Technologies
 
 Python 3.x
@@ -79,8 +65,6 @@ Seaborn
 Matplotlib
 
 
-
----
 
 📁 Project Structure
 
