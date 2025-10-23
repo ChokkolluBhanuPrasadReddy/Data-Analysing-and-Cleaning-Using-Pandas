@@ -84,7 +84,7 @@ README.md – Project documentation
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/data-cleaning-pandas.git
+git clone https://github.com/ChokkolluBhanuPrasadReddy/data-cleaning-pandas.git
 cd data-cleaning-pandas
 
 
